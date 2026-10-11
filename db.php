@@ -4,7 +4,7 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 
 $host = 'localhost';
-$dbname = 'portfolio_db';
+$dbname = 'assignment_system';
 $username = 'root';
 $password = '';  // Laragon default is empty
 
